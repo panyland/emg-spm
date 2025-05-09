@@ -1,4 +1,4 @@
-# Calculation of EMG envelope and statistical parametric mapping analysis of averaged repetitions throughout movement cycle.
+# Calculation of EMG envelope and statistical parametric mapping analysis of averaged repetitions throughout a movement cycle.
 
 ## data.zip
 - example data: text files of emg data (RMS values)
